@@ -1,0 +1,49 @@
+#admin{
+    display: grid;
+    grid-template-columns: 280px 1fr;
+}
+
+#menu{
+    display: grid;
+    grid-template-rows: 100vh;
+}
+
+/* #logo{
+
+    background-color: #ffb606;
+}
+
+#form{
+    background-color: azure;
+} */
+
+.link{
+  cursor: pointer;
+}
+
+.cl{
+  background-color: #ffb606 !important;
+}
+
+.cl-font{
+  color: #ffb606 !important;
+  text-decoration: none;
+}
+
+/* slibar */
+
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+@media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+/* slibar */
